@@ -1,4 +1,4 @@
-# for Mysql;
+for Mysql;
 
 # create;
 CREATE TABLE `_text` (
@@ -17,6 +17,6 @@ CREATE TABLE `_text` (
 # query;
 SELECT * FROM `TABLENAME` WHERE `TABLENAME.COLUMN` REGEXP '[[:<:]]2410[[:>:]]' LIMIT 1;
 
-# reult;
+# result;
 
 ID : 5
