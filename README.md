@@ -1,5 +1,4 @@
-# functionMySql
-for Mysql;
+# for Mysql;
 
 CREATE TABLE `_text` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
